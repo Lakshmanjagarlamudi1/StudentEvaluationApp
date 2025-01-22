@@ -17,5 +17,3 @@ A Python-based application for SNHU-SETA designed to automate the extraction, fi
 - **PyPDF2**: For PDF file parsing and data extraction.  
 - **Pandas**: For data manipulation and filtering.  
 - **SQL**: For structured data modeling and querying.  
-
----
